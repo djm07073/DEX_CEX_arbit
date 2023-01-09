@@ -14,8 +14,5 @@
 - 아비트리지가 높은 순으로 보여주는 화면 (예시)[https://theddari.com/](https://theddari.com/arbitrage)
 - 사용자 설정(아비트리지 기준 설정, 알림 내역 저장)
 - 아비트리지 알림 텔레그램 봇
-- DEX pool에서 가격조회하는 컨트랙트(?)
-
-## 추가 기능
 - 이 웹사이트를 사용하기 위한 membership 구성(NFT로 할 예정)
 
