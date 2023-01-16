@@ -16,3 +16,8 @@
 - 아비트리지 알림 텔레그램 봇
 - 이 웹사이트를 사용하기 위한 membership 구성(NFT로 할 예정)
 
+## 역할
+- 조강현: Project Manager
+- 진수하: Smart Contract, 구자경 보좌
+- 구자경: Node.js DEX와 CEX tracking, telegram-bot
+- 박민철: https://theddari.com/](https://theddari.com/arbitrage)
